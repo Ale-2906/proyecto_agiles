@@ -1,0 +1,60 @@
+/* Registro.css */
+
+p {
+    margin-bottom: 10px;
+    font-family: Arial, sans-serif;
+  }
+  
+  label {
+    margin-bottom: 5px;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 2cm;
+    font-size: 1.4em;
+  }
+  
+  input, select {
+    padding: 8px;
+    border: none;
+    border-bottom: 1px solid #e9d5d5;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+    width: 100vh;
+    margin-bottom: 10px;
+    font-size: 1.4em;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: rgb(117, 7, 7); ;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.4em;
+  }
+  
+  button:hover {
+    background-color: white;
+    color: black;
+  }
+table {
+  width: 100%;
+  border-collapse: collapse; 
+  margin: 20px 0; 
+  font-size: 1.4em;
+  background-color: #f9f9f9; 
+  font-family: 'Times New Roman', Times, serif;
+}
+
+th, td {
+  border: 1px solid #0e0d0d; 
+  text-align: justify;
+  padding: 12px; 
+}
+
+th {
+  background-color: rgb(110,7,7); 
+  color: white; 
+}
